@@ -1,0 +1,6 @@
+{
+    "rust-analyzer.inlayHints.enable": true,
+    "cSpell.words": [
+        "etherparse"
+    ]
+}
